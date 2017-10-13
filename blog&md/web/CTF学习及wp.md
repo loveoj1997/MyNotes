@@ -15,6 +15,6 @@
 cap无线密码破解-aircrack-win  
 cap包无线解密，airdecap-ng -e SSID -p PASSWORD
 MP3Stego Decode.exe -X -P PASSWORD
-rz命令
+rz sz命令
 ## 工具
 cheat engine
