@@ -35,5 +35,3 @@ x5s快速定位xss漏洞
 `intitle` 标题关键字 *后台*  
 `inurl` url关键字
 `filetype` 文件类型
-
-
