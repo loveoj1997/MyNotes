@@ -16,5 +16,8 @@ cap无线密码破解-aircrack-win
 cap包无线解密，airdecap-ng -e SSID -p PASSWORD
 MP3Stego Decode.exe -X -P PASSWORD
 rz sz命令
+## string 命令提取字符串，tr去除换行
+strings qweqwe.pcapng | grep '^[a-z0-9]\{14\}$' | tr -d '\n' > test.txt  
+
 ## 工具
 cheat engine

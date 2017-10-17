@@ -18,3 +18,4 @@ pngcheck.exe -v xxx.png 正常一个快是65524
 78 9C是zlib压缩标志
 zlib扩展阅读http://zlib.net/
 
+test
