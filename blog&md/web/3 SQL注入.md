@@ -331,3 +331,4 @@ php+mysql手工注入
 3. brup 单线程可以扫的
 4. 域传送:dnsenum -enum xxx.com 检测域传送
 5. http://www.dmzlab.com/77396.html  
+6. 宽字符注入：'aaa%df' WHERE 1=1 --' 
