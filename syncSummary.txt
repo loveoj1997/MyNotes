@@ -1,0 +1,42 @@
+VISUAL STUDIO CODE SETTINGS SYNC 
+Version: 2.8.3
+
+Upload Summary
+
+--------------------
+GITHUB TOKEN: b5eac12bcce4f18fa389e926f2b011c9def57294
+GITHUB GIST: 86edd6a45e0b0a2a25d70464e45b3029
+GITHUB GIST TYPE: Secret
+
+--------------------
+
+If current theme / file icon extension is not installed. Restart will be Required to Apply Theme and File Icon.
+
+
+Files Upload.
+
+extensions.json
+keybindings.json > keybindingsMac.json
+settings.json
+vsicons.settings.json
+
+
+EXTENSIONS ADDED :
+
+beautify - Version :1.1.1
+bootstrap-3-snippets - Version :0.1.0
+c-cpp-snippets - Version :0.1.0
+code-settings-sync - Version :2.8.3
+cpptools - Version :0.14.0
+language-x86-64-assembly - Version :2.2.11
+MagicPython - Version :1.0.12
+markdown-all-in-one - Version :0.11.0
+markdown-pdf - Version :0.1.7
+path-intellisense - Version :1.4.2
+phpcs - Version :0.7.0
+python - Version :0.2.3
+python - Version :0.7.0
+sublime-keybindings - Version :3.0.2
+vscode-clang - Version :0.2.2
+vscode-icons - Version :7.17.0
+vscode-paste-image - Version :0.9.4
